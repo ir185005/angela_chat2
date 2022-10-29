@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>479952010768-na483bb5krl59nopf59q2gfkovn72rma.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.479952010768-na483bb5krl59nopf59q2gfkovn72rma</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_ca0yQ6iFRO_cAMno_r1xvOs0MkAQVe4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>479952010768</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.angelaChat2</string>
+	<key>PROJECT_ID</key>
+	<string>angela-flash-chat-5e0a2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>angela-flash-chat-5e0a2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:479952010768:ios:57a7cd3de377d327971495</string>
+</dict>
+</plist>
