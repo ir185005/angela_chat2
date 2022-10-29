@@ -1,16 +1,3 @@
-# angela_chat2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="348" alt="Снимок экрана 2022-10-29 в 20 32 06" src="https://user-images.githubusercontent.com/96695186/198845372-a826c55a-bb25-4176-af35-123d1af30a77.png">
+<img width="348" alt="Снимок экрана 2022-10-29 в 20 31 39" src="https://user-images.githubusercontent.com/96695186/198845375-2ff45c60-a892-4446-a581-3a54b31bb754.png">
+<img width="348" alt="Снимок экрана 2022-10-29 в 20 31 23" src="https://user-images.githubusercontent.com/96695186/198845377-a3736c2f-97a0-44ba-960d-53366a00f6aa.png">
